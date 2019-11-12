@@ -40,7 +40,7 @@ CREATE TABLE `shop_site_config` (
 
 INSERT INTO `shop_site_config` (`config_name`, `detail`, `lastUpdate`) VALUES
 ('siteName', 'BNCC Shop', '2019-11-12 08:38:51'),
-('siteURL', 'http://localhost/bccshop/', '2019-11-11 07:52:14'),
+('siteURL', 'http://localhost/bccshop', '2019-11-11 07:52:14'),
 ('subName', 'BS', '2019-11-12 08:38:56'),
 ('theme', 'adminbsb', '2019-11-11 08:15:06');
 
